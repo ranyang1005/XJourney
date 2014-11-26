@@ -1098,9 +1098,10 @@ a.article-title:hover {
 #footer-info {
   line-height: 1.6em;
   font-size: 0.85em;
+  width: 500px;
 }
 #footer-qrcode {
-  margin-left: 30px;
+  margin-left: 530px;
 }
 .article-entry pre,
 .article-entry .highlight {
